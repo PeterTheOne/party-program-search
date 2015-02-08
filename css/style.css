@@ -1,3 +1,15 @@
+a[type="application/pdf"]::after,
+a[href$=".pdf"]::after { 
+    content: " (PDF)";
+    font-size: xx-small;
+}
+
+a[href*="youtube.com"]::after { 
+    content: " (YouTube)";
+    font-size: xx-small;
+}
+
+
 h1 a{
     text-decoration: none;
     color: black;
@@ -15,6 +27,14 @@ h1 a{
 }
 
 #suggestions ul li{
+    display: inline;
+}
+
+h2 {
+    display: inline;
+}
+
+#results a {
     display: inline;
 }
 

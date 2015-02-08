@@ -12,6 +12,7 @@ $(function() {
             id: 'spoe',
             name: 'Sozialdemokratische Partei Österreichs (SPÖ) - Dr. Maria-Luise Mathiaschitz (SPÖ)',
             filePath: 'text/spoe.md',
+            url: 'http://www.spoe-klagenfurt.at/sites/klagenfurt.spoe.at/files/downloads/zukunftsprogramm_spoe_klagenfurt.pdf',
             text: ''
         },
         {
@@ -81,7 +82,7 @@ $(function() {
         var resultCount = 0;
 
         $.each(programData, function(index, value) {
-            $('#results').append('<h2>' + value.name + '</h2>');
+            $('#results').append('<h2>' + value.name + '</h2> - <a href="' + value.url + '">Programm</a>');
             $('#results').append('<ul id="' + value.id + '"></ul>');
 
             var lines = value.text.split('\n');
@@ -89,7 +90,7 @@ $(function() {
             $.each(lines, function(index, line) {
                 if (line.search(new RegExp(searchWord, 'i')) > 0) {
                     resultCount++;
-                    
+
                     var lineMarked = line.replace(new RegExp(searchWord, 'i'), '<span class="highlight">$&</span>');
                     $('#results ul#' + value.id).append('<li>' + lineMarked + '</li>');
                 }
