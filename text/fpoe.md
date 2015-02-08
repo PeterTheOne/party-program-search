@@ -1,0 +1,8 @@
+- Errichtung Eishalle Neu in drei Baustufen
+- Saubere und leistbare Energie durch Biomassewerke
+- Stadtmuseum zur Erhaltung unserer Geschichte
+- Stadtbibliothek als multimedialer Treffpunkt für Jung und Alt
+- Indoor Spielplatz
+- Interkommunaler Gewerbepark Ost
+- Neues Hallenbad mit Bürgerbeteiligung
+- Projekt Klagenfurt 100.000 Einwohner

@@ -2,6 +2,13 @@ $(function() {
 
     var programData = [
         {
+            id: 'fpoe',
+            name: 'Die Freiheitlichen in Klagenfurt - FPÖ "Liste Christian Scheider" (FPÖ)',
+            filePath: 'text/fpoe.md',
+            url: 'http://www.christianscheider.at/aut_de_xhtml-4-projekte.php',
+            text: ''
+        },
+        {
             id: 'spoe',
             name: 'Sozialdemokratische Partei Österreichs (SPÖ) - Dr. Maria-Luise Mathiaschitz (SPÖ)',
             filePath: 'text/spoe.md',
@@ -11,12 +18,13 @@ $(function() {
             id: 'gruene',
             name: 'Die Grünen Klagenfurt - Frank Frey (GRÜNE)',
             filePath: 'text/gruene.md',
+            url: 'http://klagenfurt.gruene.at/wahlprogramm',
             text: ''
         },
         {
-            id: 'buerger-allianz',
+            id: 'ba',
             name: 'Bürger - Allianz Liste Albert Gunzer (BA)',
-            filePath: 'text/buerger-allianz.md',
+            filePath: 'text/ba.md',
             url: 'http://www.buerger-allianz.at/programm.html',
             text: ''
         },

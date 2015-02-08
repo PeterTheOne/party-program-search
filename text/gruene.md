@@ -137,3 +137,144 @@ POLITIK FÜR ALLE
 - Plattform für alle MigrantInnen zum regelmäßigen Austausch
 - Stadtwerke wieder dem Gemeinderat unterstellen (Auflösung der AG)
 - Offensive (Verwaltungs-)Kooperationen mit den Umlandgemeinden und mit Villach
+
+
+
+
+PREDNOSTI ZA POTNIKE AVTOBUSA IN KOLESARJE
+==========================================
+
+Pametna mreža avtobusnih povezav
+Avtobusne povezave v 15-minutnem razmiku
+Razmik med avtobusnimi postajami naj znaša 200 metrov
+Brezplačni avtobusni prevozi za mlajše od 18. let
+Pregledni vozni redi
+Izboljšanje mreže kolesarskih poti
+Ločeno grajene kolesarske steze
+Brezplačna mestna kolesa na vseh železniških postajah ter na osrednjih avtobusnih postajah
+Avtobusna povezava do stadiona
+
+
+ZELENO MESTNO JEDRO
+===================
+
+Cone brez avtomobila na Bahnhofstraße, Fleischmarkt, Pfarrplatz itd.
+Nov koncept parkiranja v celotnem mestu
+Prednosti za pešce in peške ter kolesarje in kolesarke v mestnem jedru
+Stanovalcem prijazne parkirne možnosti
+Nobenih dodatnih podzemnih garaž –  obstoječe garaže niso zasedene
+Povečanje Benediktinskega trga v smeri 10. Oktoberstraße
+Biološka tržnica v vsakem mestnem predelu
+Zelene površine za igranje in sprostitev
+Daljše zelene faze na semaforju za pešce
+Invalidom prijazno mestno jedro
+
+
+SOODLOČANJE MEŠČANOV IN MEŠČANK
+===============================
+
+Javna objava vseh zapisnikov mestnega senata ter odborov
+Uvedba obveznega ljudskega glasovanja o večjih projektih, kot so npr. kopališče, pokrito drsališče itd.
+Uvedba ene same servisne pisarne za odobritve/upravne zadeve
+Maksimalna transparentnost postopkov v zvezi z namembnosti zemljišč, gradbenih ter obrtnih postopkov v okviru zakonskih predpisov
+Redna nestrankarska zborovanja meščanov in meščank v vsakem predelu mesta, namenjena splošni izmenjavi informacij
+
+
+BOLJŠE BIVANJE
+==============
+
+Mesto naj zagotovi zemljišča za izgradnjo socialnih stanovanj Poživitev mestnega jedra s stanovanji in kreativnimi platformami
+Zmanjšanje obratovalnih stroškov za energijo, vodo ter kanalizacijo
+Upravljanje nepremičnin je treba podrediti direktni pristojnosti mesta
+Razpisi ter novi modeli zgoščene (stanovanjske) gradnje
+S pilotnim projektom bivanja z neodvisnostjo od avtomobila izboljšati kakovost in možnosti novega bivanja
+Krepitev mestnega jedra in centrov drugih mestnih predelov, preprečitev prenamemb velikih površin
+Povečanje razdalje med stanovanjskimi hišami ter zagotovitev igrišč na notranjih dvoriščih
+Dolgoročna zaščita podtalnice ter pitne vode – tudi pred privatizacijo
+Uvedba sveta za gradbeno kulturo
+
+
+MESTO KOT DELOVNO MESTO
+=======================
+
+Ofenzivna namestitev obratov
+Skupinske pisarne za kreativno gospodarstvo
+Pridobitev manjkajočih branž v mestno središče
+Podpora Lakeside Science in Technology Parka pri razvoju
+Nova usmeritev mestnega marketinga v smeri kreativnega mestnega menedžmenta
+Aktivno sooblikovanje Turistične zveze Vrbsko jezero
+Podpora oseb in podjetij, aktivnih v smeri čezmejnega sodelovanja v prostoru Alpe-Jadran
+Koncentracija upravnih centrov ter zdravniških ordinacij v center mesta (npr. na Benediktinskem trgu-Lichtenfelsgasse, vendar brez podzemne garaže)
+Posredovanja praznih poslovnih prostorov mladim podjetnikom/podjetnicam
+Uvedba ene mestne servisne službe, ki je pristojna za vsa obratovalna dovoljenja
+Omejitev roka za odločanje o vseh vlogah na šest tednov
+
+
+SPROSTITEV V NARAVI
+===================
+
+Zagotovitev javnega dostopa do jezer
+Omejitev eventnega turizma v vzhodnem zalivu (analiza stroškov in koristi vseh prireditev, preprečitev mesece trajajoče blokade dostopa do jezera)
+Zamenjava lokacije za odbojko na mivki (alternativa: štadion)
+Kopališče s 50-metrskim bazenom v središču mesta, ki bo na voljo vsem prebivalcem in prebivalkam tako kot tudi športnikom in športnicam
+Pokrito drsališča, pogojeno s sodelovanjem Beljaka in privatnim nositeljem
+Razširitev Europaparka v smeri kopališča tako kot izdelava novega koncepta za parkiranje za goste kopališča
+Uvedba Natura-2000-centra v bližini jezera
+Zagotovilo, da Križna gora in Spitalberg ostaneta oaze za sprostitev
+Nobenih nadaljnjih sprememb namembnosti /gradenj v zavarovanih področjih pokrajine (npr. Schleppe, strelišče v Vetrinju, Križna gora)
+Naravne zelenice ter izgradnja mestnega vrtnarstva
+
+
+PROSTOR ZA OTROKE IN MLADINO
+============================
+
+Brezplačen otroški vrtec za otroke starih od tri do šest let
+Izgradnja varstva otrok mlajših od treh let v vsakem predelu mesta
+Prispevki za varstvo prilagojeni socialni zmožnosti posameznikov
+Biološko pridelana hrana v vseh ustanovah otroškega varstva
+10 novih igrišč v mestu
+Poudarek pri predšolski vzgoji na področjih jezikov, naravoslovja, telovadbe, kreativnosti ter osredotočenje na mestne predele s koriščenjem obstoječe infrastrukture
+Podvojitev finančnih sredstev za gradivo ljudskih šol in dnevnih varstev
+V vsakem mestnem predelu naj bi bila na razpolago prostori za preživljanje prostega časa mladine (indoor in outdoor)
+Več socialnih delavcev/delavk namesto mestnih redarjev
+V vsakem mestnem predelu naj bi bil/-a zastopan/-a en/-a pooblaščenec/pooblaščenka pristojna za mladino
+Celoletna ponudba otroškega varstva
+Dolgoročna finančna oskrba kriznega centra za mlade
+
+KULTURNO IN IZOBRAŽEVALNO MESTO
+===============================
+
+Nadregionalna umestitev mestnega gledališča ter realizacija neomejenega dostopa za celotno prebivalstvo (npr. lože deželnega glavarja ter župana naj bi bile brezplačno dostopne)
+Finančna krepitev lokalnih gledaliških, umetniških ter kulturnih pobud (npr. jasno se upredelimo za Theaterhalle 11)
+Sodelovanje med mestno knjižnico in mediateko ter obstoječimi ustanovami
+Uvedba javne kreativne šole za mlade
+Spodbujanje sodelovanja mesta Celovec z Univerzo Alpe-Jadran v Celovcu, Pedagoško visoko šolo (PH) ter Strokovno visoko šolo (FH)
+Poudariti, da je Celovec občina z najvišjim deležem slovensko govorečega prebivalstva
+Celovec je središče izobraževanja v slovenskem jeziku začenši z vrtcem do zrelostnega izpita
+Prireditev moderne jubilejne slovesnosti ob 500 letnici mesta Celovec v letu 2018.
+
+
+VEČ OBNOVLJIVIH VIROV ENERGIJE
+==============================
+
+Zmanjšanje porabe energije v javnih poslopjih za 30 %
+Spodbuda energetske oskrbe s solarnimi ter fotovoltaičnimi napravami
+Izgradnja ugodnejšega daljinskega ogrevanja z biomaso
+Pilotski projekti z obnovljivo energijo v javnem prostoru
+Ekološka sanacija javnih poslopij
+Akcija za zmanjševanje stroškov za energijo za ljudi ogrožene z revščino
+Svetovalnica za energetska vprašanja in vloge
+
+
+POLITIKA ZA VSE
+===============
+
+Krepitev kompetenc občinskega sveta ter pogostejše seje občinskega sveta
+Odločitve o subvencijah naj bi bili v izklučni pristojnosti občinskega sveta
+Transparentnost pri mestnih subvencijah
+Preprečitev zlorabe paragrafa 73 (»Paragraf v sili«)
+Ura mladih ter starejših občanov pri vseh sejah občinskega sveta
+Varuh/varuhinja v vsakem mestnem predelu
+Platforma za redno izmenjavo za vse migrante
+Podjetje Stadtwerke naj bi se zopet podredilo občinskemu svetu (razpustitev delniške družbe)
+Ofenzivne kooperacije na področju uprave z sosednimi občinami in z Beljakom
