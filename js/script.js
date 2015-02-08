@@ -16,6 +16,13 @@ $(function() {
             text: ''
         },
         {
+            id: 'oevp',
+            name: 'Otto Umlauft - Klagenfurter Volkspartei (ÖVP)',
+            filePath: 'text/oevp.md',
+            url: 'http://klagenfurter-volkspartei.at/wp-content/uploads/2015/01/Wahlprogramm2015.pdf',
+            text: ''
+        },
+        {
             id: 'gruene',
             name: 'Die Grünen Klagenfurt - Frank Frey (GRÜNE)',
             filePath: 'text/gruene.md',
