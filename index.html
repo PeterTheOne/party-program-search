@@ -4,10 +4,10 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Gemeinderatswahl Klagenfurt Programm Search 2015</title>
+        <title>Gemeinderatswahl Klagenfurt 2015: Programmsuche</title>
 
         <link rel="stylesheet" href="./css/normalize.css">
-        <!--<link rel="stylesheet" href="./css/style.css">-->
+        <link rel="stylesheet" href="./css/style.css">
 
         <script type="text/javascript" src="./js/jquery-2.1.3.min.js"></script>
         <script type="text/javascript" src="./js/script.js"></script>
@@ -15,12 +15,24 @@
     <body>
         <div class="container">
             <header>
-                <h1><a href="./">Gemeinderatswahl Klagenfurt 2015 Programm Suche</a></h1>
+                <h1><a href="./">Gemeinderatswahl Klagenfurt 2015: Programmsuche</a></h1>
             </header>
             <nav>
                 <form>
-                    Suche: <input name="search" size="15" type="text" />
+                    <input name="search" size="50" type="text" placeholder="Geben sie hier ein Suchwort ein.." />
                 </form>
+                <div id="suggestions">
+                    Vorschläge:
+                    <ul>
+                        <li><a href="#">Kinder</a></li>
+                        <li><a href="#">Verkehr</a></li>
+                        <li><a href="#">Wirtschaft</a></li>
+                        <li><a href="#">Stadion</a></li>
+                        <li><a href="#">Transparenz</a></li>
+                        <li><a href="#">Kultur</a></li>
+                        <li><a href="#">See</a></li>
+                    </ul>
+                </div>
             </nav>
             <article>
                 <h2>Ergebnis</h2>
@@ -29,7 +41,7 @@
                 </div>
             </article>
         </div>
-        
+
         <!-- Piwik -->
         <script type="text/javascript">
           var _paq = _paq || [];

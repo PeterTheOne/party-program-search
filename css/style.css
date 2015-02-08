@@ -1,0 +1,19 @@
+h1 a{
+    text-decoration: none;
+    color: black;
+}
+
+#suggestions {
+    display: inline;
+}
+
+#suggestions ul {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#suggestions ul li{
+    display: inline;
+}

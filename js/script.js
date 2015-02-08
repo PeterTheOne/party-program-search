@@ -49,7 +49,16 @@ $(function() {
         }});
     });
 
+    var suggestions = $('#suggestions ul li');
+
     var searchField = $("input[name='search']");
+
+    suggestions.on('click', function(event) {
+        event.preventDefault();
+
+        searchField.val($(this).text());
+        searchField.trigger('change');
+    });
 
     searchField.on('change keyup', function(event) {
         event.preventDefault();
