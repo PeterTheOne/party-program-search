@@ -71,28 +71,32 @@ $(function() {
     searchField.on('change keyup', function(event) {
         event.preventDefault();
 
-        $('article div').html('');
-        var searchWord = searchField.val().toLowerCase();
+        $('#results').html('');
+        var searchWord = searchField.val();
 
         if (searchWord.length < 3) {
             return;
         }
 
+        var resultCount = 0;
 
         $.each(programData, function(index, value) {
-            $('article div').append('<h3>' + value.name + '</h3>');
-            var list = $('article div').append('<ul></ul>');
+            $('#results').append('<h2>' + value.name + '</h2>');
+            $('#results').append('<ul id="' + value.id + '"></ul>');
 
             var lines = value.text.split('\n');
 
             $.each(lines, function(index, line) {
-                var lineLower = line.toLowerCase();
-
-                if (lineLower.search(new RegExp(searchWord)) > 0) {
-                    list.append('<li>' + line + '</li>');
+                if (line.search(new RegExp(searchWord, 'i')) > 0) {
+                    resultCount++;
+                    
+                    var lineMarked = line.replace(new RegExp(searchWord, 'i'), '<span class="highlight">$&</span>');
+                    $('#results ul#' + value.id).append('<li>' + lineMarked + '</li>');
                 }
             });
         });
+
+        $('#statistics').html(resultCount + ' Resultate gefunden.');
 
     });
 

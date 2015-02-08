@@ -17,3 +17,15 @@ h1 a{
 #suggestions ul li{
     display: inline;
 }
+
+#results > ul {
+    list-style-type: none;
+}
+
+#results > ul li {
+    padding: 10px 0;
+}
+
+span.highlight {
+    background-color: #ffbebe;
+}
