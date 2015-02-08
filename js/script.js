@@ -55,11 +55,15 @@ $(function() {
     $.each(programData, function(index, value) {
         $.ajax({type: 'GET', url: value.filePath, dataType: 'text', success: function(data) {
             value.text = data;
+
+            if (window.location.hash.length > 0) {
+                searchField.val(window.location.hash.substring(1));
+                searchField.trigger('change');
+            }
         }});
     });
 
     var suggestions = $('#suggestions ul li');
-
     var searchField = $("input[name='search']");
 
     suggestions.on('click', function(event) {
@@ -74,6 +78,7 @@ $(function() {
 
         $('#results').html('');
         var searchWord = searchField.val();
+        window.location.hash = searchWord;
 
         if (searchWord.length < 3) {
             return;
