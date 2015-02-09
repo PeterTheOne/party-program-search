@@ -76,7 +76,7 @@ NATURNAHE ERHOLUNG FÜR ALLE
 - Standortwechsel für Beachvolleyball (Alternative: Stadion)
 - Hallenbad mit 50m-Becken in der Innenstadt für alle BewohnerInnen und für den Schwimmsport
 - Eishalle nur in Kooperation mit Villach und mit privater Trägerschaft
-- Erweiterung des Europaparks inRichtung Strandbad sowie neues und schlüssiges Parkkonzept für das Strandbad entwickeln
+- Erweiterung des Europaparks in Richtung Strandbad sowie neues und schlüssiges Parkkonzept für das Strandbad entwickeln
 - Natura-2000-Zentrum in Seenähe einrichten
 - Erholungsraum als Priorität für das Kreuzbergl und den Spitalberg sichern
 - Keine weiteren Widmungen/Bauten in Landschaftsschutzgebieten (z.B. Schleppe, Viktring-Schießplatz, Kreuzbergl)
