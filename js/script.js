@@ -100,7 +100,7 @@ $(function() {
             var lines = value.text.split('\n');
 
             $.each(lines, function(index, line) {
-                if (line.search(new RegExp(searchWord, 'i')) > 0) {
+                if (line.search(new RegExp(searchWord, 'i')) > -1) {
                     resultCount++;
 
                     var lineMarked = line.replace(new RegExp(searchWord, 'i'), '<span class="highlight">$&</span>');
