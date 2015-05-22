@@ -1,71 +1,4 @@
-wege
-steiermark
-
-für die
-
-Grundsätze, Herausforderungen und Ziele
-für die Zukunft unseres Landes
-
-wege
-steiermark
-
-für die
-
-Grundsätze, Herausforderungen und Ziele
-für die Zukunft unseres Landes
-
-inhalt
-Vorwort 
-
-8
-
-UNSERE WICHTIGSTEN ZIELE
-FÜR DIE STEIERMARK
-
-12
-
-WAS UNS FORDERT     
-
-16
-
-WEGE FÜR DIE STEIERMARK 
-
-55
-
-WEGE ZUR ARBEIT 
-
-56
-
-WEGE ZUR SICHERHEIT 
-
-67
-
-WEGE ZUR NACHHALTIGKEIT 
-
-73
-
-WEGE ZUR GEMEINSCHAFT   
-
-80
-
-WEGE ZUM WISSEN 
-
-89
-
-Danke   
-
-96
-
-DIE
-
-STEIERMARK
-KANN
-
-MEHR
-
-W
-
-ir leben in fordernden Zeiten. Globalisierung und internationaler
+Wir leben in fordernden Zeiten. Globalisierung und internationaler
 Wettbewerb haben zunehmend Einfluss darauf, wie wir in der
 Steiermark arbeiten und leben. Finanz- und Wirtschaftskrise
 
@@ -89,9 +22,9 @@ was wir als richtig erkannt haben, auch richtig umzusetzen.
 Wir wollen die steirischen Stärken wieder auf den Punkt bringen – ohne Wenn
 und Aber, und zum Nutzen der ganzen Steiermark. Wir sind keine Selbstdarsteller, keine Ideologen, keine Parteisoldaten, keine Opportunisten. Wir sind
 
-8
 
-begeisterte Steirerinnen und Steirer. Uns sind das Land, seine Menschen und
+
+begeisterte Steirerinnen und Steirer. Uns sind das Land, seine Menschen und
 seine Zukunft wichtig. Gemeinsam wollen wir die richtigen Wege in die Zukunft gehen. Wege, die unsere Steiermark wieder nach vorn bringen. Wege,
 die das einzigartige Potenzial der Steiermark und ihrer Menschen entfesseln.
 Wege, die auch in schwierigen Zeiten Sicherheit und Orientierung geben.
@@ -111,9 +44,9 @@ Dabei ist für uns klar: Das Wichtigste ist die Arbeit. Mehr und vor allem gute
 Arbeitsplätze für die Steiermark erreichen wir nur durch zukunftsweisende
 Technologien und Unternehmen im Land. Und nicht dadurch, dass wir Unternehmen vertreiben. Andere reden über Wachstum. Wir arbeiten daran. Auf
 
-9
 
-unser aller Leistung kommt es mehr denn je an. Deshalb muss sich Leistung
+
+unser aller Leistung kommt es mehr denn je an. Deshalb muss sich Leistung
 lohnen. Wer arbeitet, darf nicht der Dumme sein. Alles andere ist ungerecht
 und unsozial. Eine erstklassige soziale Absicherung ist uns wichtig, denn sie
 gibt den Steirerinnen und Steirern Sicherheit in unsicheren Zeiten – aber das
@@ -135,9 +68,9 @@ und die Steirische Volkspartei
 
 10
 
-11
+11
 
-Unsere
+Unsere
 
 wichtigsten
 
@@ -145,7 +78,7 @@ ZIELE
 steiermark
 FÜR DIE
 
-Das Wichtigste ist Arbeit. Arbeit gibt dem
+Das Wichtigste ist Arbeit. Arbeit gibt dem
 Leben Sinn und den Menschen Erfüllung und Anerkennung. Gute Arbeitsplätze sind gerade jetzt wichtiger denn je. Wir wollen deshalb Produktivität und
 Innovation in der Steiermark stärken, um unser Land aus der Krise herauszuführen und es wieder zu einem Motor der Beschäftigung in Österreich zu
 machen. Dafür müssen wir uns wieder ganz auf unsere steirischen Stärken,
@@ -171,7 +104,7 @@ Arbeit das Wohl ihrer Familien sichert.
 
 13
 
-Anderen, die wirklich unsere Hilfe brauchen, wollen wir wirkungsvoll helfen.
+Anderen, die wirklich unsere Hilfe brauchen, wollen wir wirkungsvoll helfen.
 Deshalb müssen wir das steirische Sozialsystem effizienter gestalten und auch
 finanzierbar machen. Deshalb wollen wir bestehende Missstände beseitigen,
 Unter- und Überversorgung vermeiden, bestehende Lücken schließen und unsinnige Verschwendung vermeiden. Dazu brauchen wir auch in der Steiermark
@@ -196,7 +129,7 @@ Vor allem doppelter Aufwand und Mehrfachausgaben zwischen Bund und
 
 14
 
-Land oder zwischen dem Land Steiermark und der Stadt Graz müssen beseitigt werden. Man muss ohne Vorbehalte über die Effizienz von Verwaltung
+Land oder zwischen dem Land Steiermark und der Stadt Graz müssen beseitigt werden. Man muss ohne Vorbehalte über die Effizienz von Verwaltung
 und Institutionen reden und, wo sinnvoll und möglich, Aufgaben zusammenlegen, verknüpfen oder streichen.
 Es ist unser Ziel, durch gesteigerte Effizienz den Bürgerinnen und Bürgern
 bessere Dienstleistungen zu bieten und unsere Region als Standort im Wettbewerb zu stärken.
@@ -217,11 +150,11 @@ die zur Selbstversorgung mit Energie übergehen wollen. Bis zum Jahr 2025 sollen
 
 15
 
-Was
+Was
 uns
 fordert.
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 Welche globalen, nationalen und regionalen
 Entwicklungen sind für die Zukunft der Steiermark
@@ -247,7 +180,7 @@ Management der Krise – und bereitet schwerere Krisen vor.
 
 17
 
-In der Zeitenwende
+In der Zeitenwende
 Es gibt Politik auf unterschiedlichen Ebenen: Weltpolitik, EuropaPolitik, nationale und regionale, kommunale und lokale Politik. Alle
 Ebenen leisten ihre jeweils unterschiedlichen Beiträge zu einem guten Leben. Und alle Ebenen hängen zusammen.
 Der steirischen Politik obliegt es, zunächst im eigenen Umkreis das
@@ -272,7 +205,7 @@ schon auf Grund der langfristigen Verschuldung. Deshalb muss jede
 
 18
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 Ortsbestimmung der Gegenwart bei diesem Ereignis und seinen Folgen ansetzen.
 Die Ereignisse haben uns gezeigt, dass die Welt ein verflochtenes
@@ -299,7 +232,7 @@ auch Österreich nicht und nicht die Steiermark.
 
 19
 
-Was tun in der Krise?
+Was tun in der Krise?
 Die Krise erfordert Handeln auf unterschiedlichen Ebenen und in unterschiedlichen Zeiträumen. Erstens haben wir Monate und Jahre
 hinter uns, in denen es um unmittelbares Krisenmanagement gegangen ist. Die Banken haben Geld gebraucht, in allen Ländern, nicht
 nur in Österreich. Mengen von Steuergeldern sind in Einrichtungen
@@ -323,7 +256,7 @@ Finanzwirtschaftliche Institutionen müssen so eingerichtet werden,
 
 20
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 dass der Missbrauch nach Möglichkeit verhindert wird. Das geht
 einerseits gegen den Wildwuchs der Märkte: Wir brauchen keinen
@@ -351,7 +284,7 @@ werden jene gewinnen, die sie besser verstehen und unternehmerisch handeln könn
 
 21
 
-Krisenanfälligkeit reduzieren
+Krisenanfälligkeit reduzieren
 Die Finanzmärkte muss man, im internationalen Gleichklang, wieder
 in den Griff bekommen, sonst ist die nächste Krise vorprogrammiert.
 Alleingänge, die nur heimische Standorte schädigen, sind wenig hilfreich und fallen eher unter „symbolische Politik“. Man muss sich im
@@ -376,7 +309,7 @@ Europa steht vor einer Entscheidung. Die eine Möglichkeit ist: Zerfall, Abbröc
 
 22
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 onaler Interessen. Die andere Möglichkeit ist: eine Stärkung der europäischen Institutionen: einen europäischen Währungsfonds; eine
 europäische Wirtschaftspolitik; eine europäische Steuerpolitik; eine
@@ -403,7 +336,7 @@ die neuen Märkte vor der eigenen Haustüre zu erschließen, gut genützt.
 
 23
 
-Aber als reiches Land hat die Steiermark im globalen Wettbewerb
+Aber als reiches Land hat die Steiermark im globalen Wettbewerb
 einen entsprechenden Kostendruck. Manches davon lässt sich auffangen, etwa durch die Nutzung von Flexibilisierungsreserven. Doch
 auch die demographische Entwicklung gibt, wie in vielen Ländern,
 Anlass zur Sorge. Aufwändige Verwaltungs- und Politikstrukturen
@@ -432,7 +365,7 @@ Bauern und Ingenieure, als Einwanderer und Einheimische.
 
 24
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 Welt der Arbeit
 Die Steiermark hatte noch vor zwei Jahrzehnten gravierende Strukturprobleme. Innerhalb dieser Zeit ist es gelungen, aus der Wachstumsschwäche herauszukommen, Gründungsraten von Unternehmen zu steigern, die Forschungs- und Innovationsintensität
@@ -459,7 +392,7 @@ immer den überwiegenden Anteil an der Erwerbsarbeit, neue Formen
 
 25
 
-der Arbeit sind aber auf rasantem Vormarsch. Werkverträge, freie
+der Arbeit sind aber auf rasantem Vormarsch. Werkverträge, freie
 Dienstverträge, geringfügige Beschäftigungsverhältnisse sowie verschiedenste Mischformen gehören zur Realität der österreichischen
 Arbeitswelt. Alles wird flexibel, auch die Jobs und die Karrieren. In
 den oberen Etagen des Arbeitsmarktes sind unsichere Projekte und
@@ -482,7 +415,7 @@ Manche entschließen sich, ganz für den Beruf oder ganz für die Familie da zu 
 
 26
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 schen beiden Optionen zu finden. Die Frauen haben diesen Weg mit
 großer Entschiedenheit beschritten, und ihr neues Lebenskonzept
@@ -508,7 +441,7 @@ wir uns alles kaufen und werden glücklich. Die anderen sagen: Die
 
 27
 
-Umverteilung beschert jedem Reichtum und Konsum, dann können
+Umverteilung beschert jedem Reichtum und Konsum, dann können
 sich alle alles kaufen und alle werden glücklich. Aber auf dieser materiellen Ebene ist das Glück eben nicht garantiert.
 Langfristig kann man nur ausgeben, was man einnimmt. Wenn man
 auf Dauer über die Verhältnisse lebt, dann landet man irgendwann in
@@ -532,7 +465,7 @@ Stress, mehr Spaß, Freundschaft und Familie, ein erfüllender Beruf. In den nä
 
 28
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 Wirtschaftstendenzen, wichtig sein, die Lebensqualität zu entwickeln; nicht ein Wachstum um des Wachstums willen zu erzwingen,
 welches zwar eine schöne Statistik darbietet, aber in Wahrheit mehr
@@ -560,7 +493,7 @@ globaler Ebene dauert schon viel zu lange, und es steht zu befürch-
 
 29
 
-ten, dass sich einschlägige Lobbys für diese Verzögerung einsetzen. Wir brauchen strengere Richtlinien und Rahmenvorgaben für
+ten, dass sich einschlägige Lobbys für diese Verzögerung einsetzen. Wir brauchen strengere Richtlinien und Rahmenvorgaben für
 Fonds, Derivate und andere Institutionen und Produkte, die sich als
 destabilisierende Elemente der internationalen Finanzwelt erwiesen
 haben.
@@ -585,7 +518,7 @@ ein lebendiges Gebilde und bedarf der Pflege.
 
 30
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 Welt der Sicherheit
 Das Empfinden, in einer Zeit der Unübersichtlichkeit und der Desorientierung zu leben, gehört zum Schicksal der Epoche. Die Gesellschaft ist komplex geworden, die Zusammenhänge sind schwer zu
@@ -610,7 +543,7 @@ Eine Reaktion besteht dann darin, dass mehr Anstrengung in die Inszenierung pass
 
 31
 
-che Gelder gewähren, investiert wird als in den Versuch, sich selbst
+che Gelder gewähren, investiert wird als in den Versuch, sich selbst
 zu helfen; und das steigert die ungerechtfertigten Ausgaben. Eine
 andere Reaktion ist das Ausweichen in die „Schattenwirtschaft“, was
 man für gerechtfertigt hält, wenn man vermutet, dass abgelieferte
@@ -638,7 +571,7 @@ hatten in der Wirtschaftskrise 1929 etwa 6 Prozent der realen Kauf-
 
 32
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 kraft heutiger Arbeitsloser. Heute haben wir mindestens das vierfache Wohlstandsniveau im Vergleich zu den fünfziger Jahren. Selbst
 wenn wir von Armut sprechen, handelt es sich nach internationalen
@@ -666,7 +599,7 @@ Der steigende Anteil älterer Menschen erfordert Generationensolidarität. Wir h
 
 33
 
-tinnen und Pensionisten beziehen durchschnittlich rund 40 bis 45
+tinnen und Pensionisten beziehen durchschnittlich rund 40 bis 45
 Prozent mehr Pension als Deutsche oder OECD-Bürgerinnen und
 -bürger, aber ein Drittel der Pensionen ist in Wahrheit durch Beiträge nicht gedeckt. Die älteren Menschen werden länger leben, der
 Anteil der Pflegebedürftigen wird steigen und Maßnahmen im Pflegebereich erfordern. Die Gesundheitsausgaben werden auf unabsehbare Weise zunehmen. Es gibt eine sich öffnende Finanzierungslücke. Bislang sind alle gewonnenen Lebensjahre in den Ruhestand
@@ -690,7 +623,7 @@ Es gilt daher, die Ressourcen optimal einzusetzen, um die hohe Qualität des Ges
 
 34
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 Schutz vor kriminellem Handeln
 Österreich ist – in Bezug auf Bedrohungen der körperlichen Unversehrtheit und des Eigentums – ein sicheres Land, wie es nur wenige
@@ -717,7 +650,7 @@ der organisierten Kriminalität im Internet festzustellen. Die Manipulation von 
 
 35
 
-international agierenden kriminellen Organisationen dominiert. Sehr
+international agierenden kriminellen Organisationen dominiert. Sehr
 professionell werden Delikte im Bereich der Falschgeldkriminalität
 durchgeführt. Der Vorteil in Europa ist eine gute Zusammenarbeit
 der Polizeiapparate der EU-Staaten, denn organisierte Kriminalität
@@ -744,7 +677,7 @@ berücksichtigt, dass die Kosten einer bestimmten Wirtschaftsweise
 
 36
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 im Laufe der Zeit so dramatisch ansteigen, dass kaum noch echte
 Erträge zu erwirtschaften sind, allenfalls sogar Nettokosten anfallen.
@@ -769,7 +702,7 @@ trifft es am Ende alle Menschen viel härter. Dann ist Griechenland
 
 37
 
-überall. Schließlich hat auch die Wirtschaftskrise in den USA zwei
+überall. Schließlich hat auch die Wirtschaftskrise in den USA zwei
 Jahrzehnte an privater Vermögensbildung vernichtet, keineswegs
 nur bei den Reichen, sondern zu einem guten Teil bei jenen, die für
 die Schulbildung ihrer Kinder oder für die eigene Pension angespart
@@ -795,7 +728,7 @@ Wohlstandspotenzial angesammelt hat, ein gutes halbes Jahrhundert. Aus diesem Po
 
 38
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 werden, weil man drei Kassen zur Verfügung hatte. Erstens war es
 die eigene Kassa, also das, was durch eigene Leistung erarbeitet
@@ -825,7 +758,7 @@ dass es keine befriedigenden Lösungen geben wird, wenn nicht
 
 39
 
-auch die einzelnen Menschen ihren Beitrag leisten. Es ist möglich,
+auch die einzelnen Menschen ihren Beitrag leisten. Es ist möglich,
 den Energieverbrauch ohne Komfortverlust deutlich zu senken.
 Die Umweltpolitik in den Industrieländern hat bei wahrnehmbaren,
 lokalen Problemen einiges geleistet: Die Schaumkronen sind von
@@ -854,7 +787,7 @@ bessere Häuser bauen, bessere Autos, bessere Geräte, bessere Heizungen und Kü
 
 40
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 Steiermark in Sachen Umweltschutz und Nachhaltigkeit eine gute
 Position verteidigen. Wer diese Notwendigkeiten erkennt, wird zukunftsfähig sein. Nicht jede Wucherung ist gutes Wachstum.
@@ -883,7 +816,7 @@ besser sind.
 
 41
 
-Gemeinschaft braucht Rahmenbedingungen. Vor allem braucht sie
+Gemeinschaft braucht Rahmenbedingungen. Vor allem braucht sie
 Zeit, und die Verknappung der Zeit, die Unentrinnbarkeit der zeitlichen Verknüpfungen, ist wohl eines der Probleme der Gegenwartsgesellschaft: Beschleunigungsökonomie, Wegwerfökonomie,
 Kreditökonomie. Es gehört zur Logik der Wirtschaftskrise und der
 Staatsverschuldung, dass man auf eine zukünftige Wertschöpfung
@@ -910,7 +843,7 @@ einfach berechnen: Bei einer Geburtenrate von 1,3 oder 1,4 ist nach
 
 42
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 vier Generationen noch rund ein Viertel der jeweiligen Alterskohorte
 übrig. Eine angemessene Einwanderung sichert unser Sozialsystem,
@@ -938,7 +871,7 @@ Kleidung, ihre religiösen Kernauffassungen; da freuen wir uns über
 
 43
 
-se sind zu achten und zu verteidigen. Integration liegt vor, wenn diese Grundauffassungen von allen geschätzt und von allen verteidigt
+se sind zu achten und zu verteidigen. Integration liegt vor, wenn diese Grundauffassungen von allen geschätzt und von allen verteidigt
 werden. Darüber hinaus ist es ein Erlebnis, an der kulturellen Vielfalt
 der Welt teilzuhaben. Da es sich in Europa um ein großes Territorium handelt, bei dem alle inneren Grenzen offen stehen, sind weitere
 Schritte zur Abstimmung der europäischen Asylpolitik notwendig.
@@ -962,7 +895,7 @@ entstanden. Die Werte, auf die sich die Union gründet, sind die Achtung der Men
 
 44
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 staatlichkeit und die Wahrung der Menschenrechte einschließlich
 der Rechte der Personen, die Minderheiten angehören. Diese Werte
@@ -992,7 +925,7 @@ Krisensituationen auch durchschlagskräftig. Die Schuldenkrise Griechenlands und
 
 45
 
-scher Staaten waren ein Test für die Stabilität der Euro-Zone und für
+scher Staaten waren ein Test für die Stabilität der Euro-Zone und für
 die Krisensolidarität der anderen Länder. Kritische Momente wurden
 gut bewältigt. Durch die Krise steht Europa an einem Scheideweg:
 Wenn es in weiterer Folge scheitert, waren die Bemühungen der letzten zwanzig Jahre vergebens. Wenn es zusammenhält, wird es zu
@@ -1019,7 +952,7 @@ zentralen europäischen Institutionen entwickeln zuweilen eine Tech-
 
 46
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 nokratensprache, die bei den Bürgerinnen und Bürgern nicht mehr
 ankommt und unnötige Distanz zu den Mitgliedsvölkern schafft. Es
@@ -1049,7 +982,7 @@ Steiermark ist dabei gut platziert – und sie kann noch besser wer-
 
 47
 
-den. Das geschieht nicht durch Beschwörungen und Werbeprospekte, da muss man zupacken.
+den. Das geschieht nicht durch Beschwörungen und Werbeprospekte, da muss man zupacken.
 
 Wissen schafft Arbeit
 Je höher die Bildungsabschlüsse sind, desto besser sind die Arbeitsplatzchancen. Unqualifizierte Arbeitnehmerinnen und Arbeitnehmer sind der Arbeitslosigkeit ausgesetzt. Es ist ein Wechselverhältnis: Qualifikation zieht qualifizierte Jobs an. Exzellenz kommt zu
@@ -1070,7 +1003,7 @@ der Gesellschaft eingeführt zu werden und unsere Sprache ausreichend zu erlerne
 
 48
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 muss, Grundqualifikationen in ausreichender Form zu vermitteln; in
 der Lehre, deren Attraktivität zu steigern ist, wenn das gute duale
@@ -1095,7 +1028,7 @@ zu Zeiten wesentlich beschränkterer Ressourcen noch stärker im
 
 49
 
-Bewusstsein war: dass Bildung auch für das Menschsein, für die
+Bewusstsein war: dass Bildung auch für das Menschsein, für die
 Bildung von Identität und Charakter, für die Entfaltung von staatsbürgerlichem Ethos und die Gewinnung eines breiten geistigen Horizonts von Bedeutung ist.
 
 Die Kultur des Ermöglichens
@@ -1118,7 +1051,7 @@ und – auch – internationales Flair beinhaltet, zu schaffen; das hat
 
 50
 
-Wege für die Steiermark I Was uns fordert
+Wege für die Steiermark I Was uns fordert
 
 auch wirtschaftlichen Wert. Die Krise könnte sogar als Innovationsbeschleuniger wirken.
 Kultur liegt nicht nur dort vor, wo man an die Vergangenheit denkt.
@@ -1146,7 +1079,7 @@ wir haben eine Vorstellung davon, wo die Reise hingehen soll.
 
 51
 
-Wir haben Werte, die uns den Weg weisen. Sie stehen für Langfristigkeit, Standfestigkeit, Glaubwürdigkeit. Das wird nicht unmodern.
+Wir haben Werte, die uns den Weg weisen. Sie stehen für Langfristigkeit, Standfestigkeit, Glaubwürdigkeit. Das wird nicht unmodern.
 Wir brauchen machbare Ideale, und wir brauchen eine Politik mit
 Realismus und Augenmaß. Eine Gesellschaft, die wertorientiertes
 Verhalten nicht mehr einfordert, gibt sich selbst auf.
@@ -1164,16 +1097,16 @@ verlässliches, entschlossenes Handeln.
 
 52
 
-wege
+wege
 steiermark
 
 für die
 
-Wege zur
+Wege zur
 
 Arbeit
 
-Wege für die Steiermark I Wege zur Arbeit
+Wege für die Steiermark I Wege zur Arbeit
 
 UNSERE
 STANDPUNKTE
@@ -1199,7 +1132,7 @@ zu belasten, sind der falsche Weg. Sie würden dazu führen, dass sich
 
 57
 
-neue Betriebe nicht bei uns ansiedeln und dass sich bestehende Unternehmen andere Standorte suchen. Wer Ja zu Arbeitsplätzen sagt, muss
+neue Betriebe nicht bei uns ansiedeln und dass sich bestehende Unternehmen andere Standorte suchen. Wer Ja zu Arbeitsplätzen sagt, muss
 auch Ja zu attraktiven Rahmenbedingungen für Unternehmen und
 raschen Standortverfahren sagen. Wir reden nicht nur über Wachstum.
 Wir arbeiten daran. Mit unserer Wachstumsstrategie wollen wir wieder
@@ -1219,7 +1152,7 @@ Die Steiermark soll in den nächsten Jahren in Sachen Wirtschaftswachstum wieder
 
 58
 
-Wege für die Steiermark I Wege zur Arbeit
+Wege für die Steiermark I Wege zur Arbeit
 
 UNSERE
 WEGE
@@ -1244,7 +1177,7 @@ investiert werden. Die Mittel aus den staatlichen Konjunkturprogrammen müssen e
 
 59
 
-war die Steiermark 2007 das innovativste Bundesland Österreichs und
+war die Steiermark 2007 das innovativste Bundesland Österreichs und
 Vize-Europameister hinter Baden-Württemberg. Diese Erfolgsgeschichte
 wollen wir fortschreiben.
 
@@ -1271,7 +1204,7 @@ Technikermangel.
 
 60
 
-Wege für die Steiermark I Wege zur Arbeit
+Wege für die Steiermark I Wege zur Arbeit
 
 Standort Steiermark stärken. Die Zukunft des Industrielandes
 Steiermark muss gesichert sein. Wir wollen den Wirtschafts- und Arbeitsstandort Steiermark verstärkt als Innovations- und Forschungsstandort, als Industriestandort für höchste Qualität und als Zentrum für
@@ -1299,7 +1232,7 @@ In der Wohnbaupolitik sind leistbare Wohnungen in hoher Qualität
 
 61
 
-unser Ziel – und nicht allein förderungsabhängige Mieterinnen und
+unser Ziel – und nicht allein förderungsabhängige Mieterinnen und
 Mieter.
 
 Tourismus richtig weiterentwickeln. Der steirische
@@ -1323,7 +1256,7 @@ Kompetenz in der Wasserwirtschaft ausbauen. Die Steiermark ist europäisches Vor
 
 62
 
-Wege für die Steiermark I Wege zur Arbeit
+Wege für die Steiermark I Wege zur Arbeit
 
 wollen wir den Export von Wassertechnologie – unterstützt durch
 wissenschaftliche Begleitung – vor allem nach Osteuropa und in
@@ -1353,7 +1286,7 @@ transparent evaluiert werden.
 
 63
 
-Fairness für Pendler. Viele Steirerinnen und Steirer pendeln.
+Fairness für Pendler. Viele Steirerinnen und Steirer pendeln.
 Ihre persönliche Mobilität sichert ihren Arbeitsplatz – und den Erfolg
 ihrer Arbeitgeberinnen und Arbeitgeber. Sie haben Fairness verdient:
 Deshalb sollen sie wie die Selbstständigen künftig die Gesamtkosten
@@ -1378,7 +1311,7 @@ Erhalt der wichtigsten Anbindungen im Luftverkehr, eine sichere Energieversorgun
 
 64
 
-Wege für die Steiermark I Wege zur Arbeit
+Wege für die Steiermark I Wege zur Arbeit
 
 währleistet sein. Insbesondere muss der versprochene Ausbau der umweltfreundlichen Schiene auf der Südbahn (Semmering-Basistunnel,
 Koralmtunnel) eingehalten werden. Es darf zu keiner Benachteiligung
@@ -1403,7 +1336,7 @@ und den ländlichen Raum aufwerten.
 
 65
 
-Zeit zum Sparen. Für Wachstum und neue Jobs unverzichtbar ist
+Zeit zum Sparen. Für Wachstum und neue Jobs unverzichtbar ist
 auch der konsequente Abbau von Schulden. Denn Schulden kosten uns
 Wachstumschancen. Wer wachsen will, muss daher auch klug sparen
 können. Wir bekennen uns zur Schuldenbremse (Neuverschuldung von
@@ -1415,11 +1348,11 @@ gerade junge Menschen im Sinn der Generationengerechtigkeit ihre Zukunftschancen
 
 66
 
-Wege zur
+Wege zur
 
 Sicherheit
 
-UNSERE
+UNSERE
 STANDPUNKTE
 Sicherheit in einer unsicheren Zeit. Wir leben in unsicheren
 Zeiten. Umso wichtiger ist es für die Steiermark, dass es in Zukunft
@@ -1443,7 +1376,7 @@ Sozial- und Gesundheitssystem für alle Generationen. Wer Hilfe
 
 68
 
-Wege für die Steiermark I Wege zur Sicherheit
+Wege für die Steiermark I Wege zur Sicherheit
 
 braucht, soll sich in der Steiermark auf wirksame Hilfe verlassen
 können – in jeder Lebenssituation. Das ist wichtig für ein Leben, das
@@ -1465,7 +1398,7 @@ gegen den organisierten Banden- und Kriminaltourismus ein. Die Steiermark ist ke
 
 69
 
-Kontrolldruck erhöhen. In Ballungszentren, Umlandregionen
+Kontrolldruck erhöhen. In Ballungszentren, Umlandregionen
 und auf Transitrouten muss der polizeiliche Kontroll- bzw. Fahndungsdruck erhöht werden. In Brennpunkten muss rasch und wirksam gehandelt werden. Es sind verstärkte polizeiliche Schwerpunkt-Aktionen
 gegen Drogen- und Straßenkriminalität zu setzen.
 
@@ -1485,7 +1418,7 @@ wollen sie gezielt fördern.
 
 70
 
-Wege für die Steiermark I Wege zur Sicherheit
+Wege für die Steiermark I Wege zur Sicherheit
 
 Verkehrssicherheit erhöhen. Das steigende Schwerverkehrsaufkommen erfordert auch mehr polizeiliche Kontrollen. Durch die verbesserte Zusammenarbeit zwischen der Polizei und den Kfz-Prüfstellen sollen risikobehaftete Schwerfahrzeuge rascher aus dem Verkehr gezogen
 werden können.
@@ -1512,7 +1445,7 @@ akzeptabel, dass junge Soldatinnen und Soldaten in baufälligen Kasernen unterge
 
 71
 
-Sichere Verantwortungspolitik statt unsicherer Vollkasko-Politik. Wir wollen keinen Vollkasko-Staat, der die Bevölkerung von sozialstaatlichen Leistungen abhängig macht, Schulden produziert und ihnen falsche Sicherheit vorgaukelt. Wir wollen ein
+Sichere Verantwortungspolitik statt unsicherer Vollkasko-Politik. Wir wollen keinen Vollkasko-Staat, der die Bevölkerung von sozialstaatlichen Leistungen abhängig macht, Schulden produziert und ihnen falsche Sicherheit vorgaukelt. Wir wollen ein
 Sozialsystem, in dem es die richtige Balance aus Eigenverantwortung
 und Mitverantwortung gibt. Deshalb sind wir auch für eine 12mal
 jährlich ausbezahlte bedarfsorientierte Mindestsicherung, aber gegen
@@ -1530,11 +1463,11 @@ passiert.
 
 72
 
-Wege zur
+Wege zur
 
 Nachhaltigkeit
 
-UNSERE
+UNSERE
 STANDPUNKTE
 Wir sind ökosozial. Das zukunftsweisende Konzept der ökosozialen Marktwirtschaft ist heute aktueller denn je. Es hat nicht zufällig
 steirische Wurzeln. Wir wollen eine Wirtschafts- und Sozialordnung,
@@ -1554,7 +1487,7 @@ Zukunft. Deshalb geht es uns in allen Bereichen um zukunftsverträgliche Lösung
 
 74
 
-Wege für die Steiermark I Wege zur Nachhaltigkeit
+Wege für die Steiermark I Wege zur Nachhaltigkeit
 
 Klimawandel zur Chance machen. Die Steiermark war in der Energiepolitik schon früh führend. Daran müssen wir wieder anknüpfen.
 Eine nachhaltige Energiepolitik bedeutet nicht, Menschen Energieverbrauch zu verbieten. Wir wollen überzeugende Anreize setzen und
@@ -1577,7 +1510,7 @@ freundlicher Ausbau der Wasserkraft und die Effizienzsteigerung bestehender Kraf
 
 75
 
-zur Erhöhung der heimischen Wertschöpfung bei. Das bringt uns mehr
+zur Erhöhung der heimischen Wertschöpfung bei. Das bringt uns mehr
 Energieunabhängigkeit, Klimaschutz und Arbeitsplätze.
 
 Energieoffensive umsetzen. Wir wollen eine konsequente Umstellung der Wärmeversorgung im Land von fossiler auf erneuerbare
@@ -1604,7 +1537,7 @@ der Beschaffung und durch eine stärkere Berücksichtigung der Betriebskosten ei
 
 76
 
-Wege für die Steiermark I Wege zur Nachhaltigkeit
+Wege für die Steiermark I Wege zur Nachhaltigkeit
 
 öffentlichen Energieeinsparungen lassen sich auch Kosten für die Steuerzahler einsparen.
 
@@ -1632,7 +1565,7 @@ Infrastruktur und öffentlichen Verkehr.
 
 77
 
-Regionale Wirtschaft stärken. Als Steiermark-Partei ist uns
+Regionale Wirtschaft stärken. Als Steiermark-Partei ist uns
 eine lebendige regionale Wirtschaft ein großes Anliegen. Deshalb wollen wir die Regionalwirtschaft gezielt stärken. Regionen mit starken
 wirtschaftlichen Strukturen und Bildungseinrichtungen sind unverzichtbare Grundlage für eine auch ökologisch erfolgreiche regionale
 Wirtschaft. Langfristige Energie- und Umweltkonzepte von Gemeinden
@@ -1656,7 +1589,7 @@ die notwendige Transparenz sorgen. Globalbudgets in sämtlichen Ressorts mit Per
 
 78
 
-Wege für die Steiermark I Wege zur Nachhaltigkeit
+Wege für die Steiermark I Wege zur Nachhaltigkeit
 
 für Effizienz und Einsparungen. Der Staat muss finanzierbar werden.
 Wenn notwendig, sind dafür Gesetze zu ändern.
@@ -1673,11 +1606,11 @@ schlanker und effizienter machen.
 
 79
 
-Wege zur
+Wege zur
 
 GEMEINSCHAFT
 
-Wege für die Steiermark I Wege zur Gemeinschaft
+Wege für die Steiermark I Wege zur Gemeinschaft
 
 UNSERE
 STANDPUNKTE
@@ -1697,7 +1630,7 @@ Partnerschaften leben wollen, auf eine öffentlich akzeptierte und gültige Verb
 
 81
 
-Zuwanderung muss erfolgreich sein. Aufgrund der Bevölkerungsentwicklung ist auch für die Steiermark klar, dass Zuwanderung
+Zuwanderung muss erfolgreich sein. Aufgrund der Bevölkerungsentwicklung ist auch für die Steiermark klar, dass Zuwanderung
 notwendig ist. Ohne Zuwanderung würde die Steiermark schrumpfen.
 Wir wollen uns selbst aussuchen, wer zu uns zuwandert. Die Steiermark braucht qualifizierte Migration. Und damit Zuwanderinnen und
 Zuwanderer, die für uns ein Gewinn sind. Illegale Zuwanderung muss
@@ -1716,7 +1649,7 @@ Kinderbetreuung ausbauen. Um Eltern die Vereinbarkeit von Familie und Beruf zu e
 
 82
 
-Wege für die Steiermark I Wege zur Gemeinschaft
+Wege für die Steiermark I Wege zur Gemeinschaft
 
 ungsangebote in der Steiermark. Die Kinderbetreuungseinrichtungen
 müssen dann zur Verfügung stehen, wenn sie gebraucht werden.
@@ -1743,7 +1676,7 @@ Verantwortung gemeinsam wachsen müssen.
 
 83
 
-Fairness für Frauen. Frauen werden noch immer in vielen gesellschaftlichen Bereichen benachteiligt. Viele leiden unter der Mehrfachbelastung durch Beruf, Haushalt und Kindererziehung. Wir fördern
+Fairness für Frauen. Frauen werden noch immer in vielen gesellschaftlichen Bereichen benachteiligt. Viele leiden unter der Mehrfachbelastung durch Beruf, Haushalt und Kindererziehung. Wir fördern
 und fordern Partnerschaftlichkeit in allen Lebensbereichen. Teilen
 zwischen Mann und Frau muss sich lohnen. Wir bekennen uns zu einer
 Frauenpolitik, die zur Familienpolitik klare Grenzen zieht. Frauen sollen in der Steiermark so leben, wie sie es möchten. Ihre Qualifikationen
@@ -1768,7 +1701,7 @@ richtiges „Empowerment“ und faire Chancen: in der Bildung, am Ar-
 
 84
 
-Wege für die Steiermark I Wege zur Gemeinschaft
+Wege für die Steiermark I Wege zur Gemeinschaft
 
 beitmarkt, in der Gesellschaft. Weil man nicht behindert ist, sondern
 vielfach behindert wird, wollen wir Barrieren für Menschen mit Behinderung konsequent abbauen.
@@ -1797,7 +1730,7 @@ sicher zu Hause alt werden zu können. Für die Pflege muss ein verläss-
 
 85
 
-liches Finanzierungssystem entwickelt werden. Der Pflegebereich soll
+liches Finanzierungssystem entwickelt werden. Der Pflegebereich soll
 aus dem Sozialbereich herausgelöst und künftig in einem Ressort Pflege
 und Gesundheit verankert sein.
 
@@ -1826,7 +1759,7 @@ Rolle. Prüfungen durch den Landesrechnungshof sollen möglich sein.
 
 86
 
-Wege für die Steiermark I Wege zur Gemeinschaft
+Wege für die Steiermark I Wege zur Gemeinschaft
 
 Leistungsabgeltung für Landwirtschaft sichern. Die Sicherstellung der EU-Kofinanzierung auch in der Landwirtschaft ist uns ein
 zentrales Anliegen. Der Strukturwandel in der Landwirtschaft muss
@@ -1851,18 +1784,18 @@ Migration kann ohne Integration nicht funktionieren.
 
 87
 
-Rechte sichern. Wir erwarten uns von Zuwanderinnen und Zuwanderern und Asylberechtigten, dass sie unsere Rechtsordnung und
+Rechte sichern. Wir erwarten uns von Zuwanderinnen und Zuwanderern und Asylberechtigten, dass sie unsere Rechtsordnung und
 unsere gesellschaftlichen Grundwerte und Umgangsformen einhalten.
 Wer bei uns leben will, muss arbeiten wollen, Deutsch lernen und unsere Werte akzeptieren. Genauso bekennen wir uns zur Einhaltung der
 Religionsfreiheit, die unser Rechtsstaat für alle garantiert.
 
 88
 
-Wege zum
+Wege zum
 
 WISSEN
 
-UNSERE
+UNSERE
 STANDPUNKTE
 Wissen schafft Arbeit. In unserer Wissensgesellschaft wird es
 immer wichtiger, immer mehr „kluge Köpfe“ im Land zu haben. Wissen
@@ -1883,7 +1816,7 @@ Bildungsverständnis und einer reichen Bildungstradition im Land. Sie
 
 90
 
-Wege für die Steiermark I Wege zum Wissen
+Wege für die Steiermark I Wege zum Wissen
 
 wollen wir weiterhin fördern und fordern. Unsere Offenheit für neues
 Wissen und neue Technologien – ohne dabei technologiegläubig zu
@@ -1903,7 +1836,7 @@ die Begabungen unserer Kinder (z.B. Tutoring-System) bestmöglich zu
 
 91
 
-fördern. Die Förderung von Talenten ist ein wichtiges Anliegen und
+fördern. Die Förderung von Talenten ist ein wichtiges Anliegen und
 Kennzeichen unserer Bildungspolitik.
 
 Die beste Schule für unsere Kinder. Die Debatte über die Schulreform darf sich nicht auf das Schlagwort „Gesamtschule“ reduzieren.
@@ -1929,7 +1862,7 @@ Skills, Management und Leadership zu erwerben. Ihre Weiterbildung
 
 92
 
-Wege für die Steiermark I Wege zum Wissen
+Wege für die Steiermark I Wege zum Wissen
 
 keine höheren Kosten verursachen als auf konventionellen Bildungswegen. „Lehrlings-Schnuppertage“ sollten bereits ab der 3. Hauptschul- und Gymnasialklasse beginnen (als Teil des praxisorientierten
 Unterrichtsfaches „Berufsorientierung“). Dadurch soll es Schülerinnen
@@ -1953,7 +1886,7 @@ die Bereiche Mobilität, Werkstoffe, Biotechnologie, Bioenergie, Pharmazie, Info
 
 93
 
-Hochschulen stärken. Universitäten und Fachhochschulen
+Hochschulen stärken. Universitäten und Fachhochschulen
 sind entscheidend für die Zukunft der Steiermark. Die Rollen beider
 Institutionen müssen geschärft und deren spezifischen Stärken
 gezielt gefördert werden. Für die Fachhochschulen heißt dies
@@ -1984,7 +1917,7 @@ Wettbewerb um Forschungsmittel überaus erfolgreich ab. Diese Erfolgs-
 
 94
 
-Wege für die Steiermark I Wege zum Wissen
+Wege für die Steiermark I Wege zum Wissen
 
 geschichte wollen wir mit einem entsprechenden Rahmenplan und
 klarer Fokussierung fortsetzen.
@@ -1999,9 +1932,9 @@ Wissenschafts- und Kreativwirtschaftsstadt gestärkt.
 
 95
 
-Danke.
+Danke.
 
-Das vorliegende Programm
+Das vorliegende Programm
 „Wege für die Steiermark“ basiert
 auf intensiver Programmarbeit
 der vergangenen Jahre.
@@ -2026,7 +1959,7 @@ stimmen.
 
 97
 
-Referentinnen und Referenten des DiensTalk (in chronologischer Reihenfolge): Hans Rinner, Gernot
+Referentinnen und Referenten des DiensTalk (in chronologischer Reihenfolge): Hans Rinner, Gernot
 Zirngast, Andreas Kletecka, Georg Mader, Gottfried Steiner, Wolfgang Pucher, Joseph Schnedlitz,
 Bernd Milenkovics, Max Friedrich, Kurt Strasser, Isabella Gartler, Franz Lackner, Carla Amina Baghajati,
 Kurt Widhalm, Christoph Hörhan, Gerry Wruss, Selim Yenel, Johannes W. Pichler, Anton Pototschnik,
@@ -2073,7 +2006,7 @@ der Alten Universität Graz begrüßt werden, als die Frage gestellt wurde:
 
 98
 
-Referentinnen und Referenten von Modell:Zukunft:Steiermark (in chronologischer Reihenfolge): Rudolf
+Referentinnen und Referenten von Modell:Zukunft:Steiermark (in chronologischer Reihenfolge): Rudolf
 Burger, Isolde Charim, Sophie Karmasin, Hermann Schützenhöfer, Cäcilia Petek, Michael Chalupka,
 Franz Marhold, Werner Vogt, Hans Weiss, Stefan Thomas Hopmann, Manfred Prisching, Kurt Scholz,
 Gerhard Schöll, Andrea Seel, Regina Friedrich, Oliver Fritz, Peter Glatzmeier, Angelika Kresch, Christian
@@ -2111,7 +2044,7 @@ Jochen Pack, Jakob Taibinger, Liselotte Zischka
 
 99
 
-Wichtige Impulse für die Programmarbeit lieferte auch der interaktive
+Wichtige Impulse für die Programmarbeit lieferte auch der interaktive
 „Steiermark-Dialog“. Unter www.steiermarkdialog.at wurde in den
 vergangenen sechs Monaten eine Kommunikationsplattform ins Leben
 gerufen, auf der die Steirerinnen und Steirer die Möglichkeit hatten, zu
@@ -2145,7 +2078,7 @@ Leopold Neuhold, Laura Perres, Christian Pippan, Hildegunde Piza-Katzer, Ursula 
 
 100
 
-Prettenthaler, Margareth Prisching, Josef Pröll, Johanna Rachinger, Andreas Schnider, Jeanne-Marie
+Prettenthaler, Margareth Prisching, Josef Pröll, Johanna Rachinger, Andreas Schnider, Jeanne-Marie
 Schwarz, Thomas Spann, Harald Stelzer, Heinz-Christian Strache, Peter Westenthaler, Hans Winkler,
 Bianca Woermann, Karl Wratschko, Amra Abaz, Hans Adam, Claudia Babel, Catherine Bosshart-Pfluger,
 Stefan Brändle, Helmut Brandstätter, Dieter Brosz, Erhard Busek, Peter Filzmaier, Regina Friedrich,
@@ -2195,7 +2128,7 @@ Zach, Detlev Eisel-Eiselsberg, Werner Miedl, Gerhard Rüsch, Mathis Huber, Alfre
 
 101
 
-Heinz Palme, Gabi Burgstaller, David Brenner, Jörg Haider, Reinhold Lopatka, Karl Stoss, Oliver Fritz,
+Heinz Palme, Gabi Burgstaller, David Brenner, Jörg Haider, Reinhold Lopatka, Karl Stoss, Oliver Fritz,
 Gerald Angermann-Mozetic, Werner Suppanz, Urs Altermatt, Michael Friedrich, Astrid Schrenk, Martin
 Konrad, Friedrich Stickler, Josef Hickersberger, Konrad Plautz, Olga Hutter, Gerhard Kapl, Claudia Gigler,
 Thomas Plauder, Egyd Gstättner, Martin G. Wanko, Johannes Heinrich, Michael Lang, Richard Sturn,
@@ -2232,7 +2165,7 @@ Danke den Arbeitskreisleiterinnen und Arbeitskreisleitern der Programmarbeit im 
 
 102
 
-und Experten, die sich zu ihren jeweiligen Themen im weiß-grünen
+und Experten, die sich zu ihren jeweiligen Themen im weiß-grünen
 Weg eingebracht haben.
 Danke den Teilnehmerinnen und Teilnehmern des Steiermark-Dialoges –
 insgesamt knapp 2.500 Personen!
@@ -2262,11 +2195,11 @@ Sohn-Kronthaler, Barbara Stelzl-Marx, Kurt Weinke
 
 103
 
-104
+104
 
-105
+105
 
-Hinter all diesen Aktivitäten stand und steht die Überzeugung:
+Hinter all diesen Aktivitäten stand und steht die Überzeugung:
 Eine Partei muss sich den brennenden gesellschaftspolitischen Themen
 widmen, um ernst genommen zu werden und richtige Lösungen
 entwickeln zu können. Bereits im Jahre 1975 hat der damals neue
@@ -2291,4 +2224,3 @@ Anita Ziegerhofer-Prettenthaler.
 
 106
 
-

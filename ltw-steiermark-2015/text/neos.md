@@ -3,7 +3,7 @@ steiermark.neos.eu | facebook.com/NEOS.stmk | für den Inhalt verantwortlich : L
 Programmentwicklung durch Themengruppen, in der steirischen Mitgliederversammlung am 11. April 2015 beschlossen.
 Dank an die zahlreichen Steirer_innen, die an diesem Programm mitgearbeitet haben!
 
-NEOS
+NEOS
 für die Erneuerung
 der Steiermark
 So sieht’s heute aus – Status quo
@@ -48,7 +48,7 @@ Projekte, die aus ihr entwachsen.
 
 So können wir das erreichen – Maßnahmen und Möglichkeiten
 
-Steiermark wird
+Steiermark wird
 Gründungshochburg
 Unternehmen entlasten,
 Arbeitsplätze schaffen
@@ -71,7 +71,7 @@ die Kraft des Neuen
 
 3
 
-Unternehmerische
+Unternehmerische
 Steiermark
 4
 
@@ -113,7 +113,7 @@ hemmt, statt unternehmerische Tätigkeit und
 Kreativität zu fördern. Die Kluft zwischen Arm und
 Reicht driftet immer weiter auseinander. Die ökologische Nachhaltigkeit sowie das Umweltbewusstsein verlieren immer mehr an nahrhaften Boden.
 
-Da wollen wir hin
+Da wollen wir hin
 Die Wirtschaft ist für die Menschen da – und
 nicht umgekehrt. Unternehmen und Unternehmer_innen schaffen Arbeitsplätze, sind Motor
 unserer Gesellschaft und ermöglichen der Steiermark Perspektiven in Industrie, Technologie,
@@ -187,7 +187,7 @@ die Steuern eingesetzt werden.
 
 5
 
-NEOS in der Steiermark ist bewusst, dass
+NEOS in der Steiermark ist bewusst, dass
 viele unserer Anregungen auch auf Bundesebene
 umzusetzen sind. Wir sehen die Aufgabe des Landes Steiermark darin, die Basis für Erneuerung in
 ganz Österreich zu schaffen und den Bund bei der
@@ -257,7 +257,7 @@ Um die vielfältige und langjährige Erfahrung
 der älteren Arbeitnehmer_innen (50+) zu nützen,
 müssen sie länger im Unternehmen bleiben. Dafür
 
-müssen sie einerseits begeistert werden und andererseits müssen Möglichkeiten geschaffen werden,
+müssen sie einerseits begeistert werden und andererseits müssen Möglichkeiten geschaffen werden,
 eventuell höhere Lohnnebenkosten ab einem
 gewissen Alter niedriger zu halten. Das ergibt eine
 klassische Win-Win-Situation.
@@ -323,7 +323,7 @@ Landschaftspflege (Tourismusattraktion, Landschafts- und Ortsbildpflege), Umwelt
 
 7
 
-5. Haftung
+5. Haftung
 und Vertrauen
 Haftung und Ethik, Vertrauen und Verantwortung sind vor allem auch praktische Fragen, die
 Unternehmer_innen und Wirtschaftstreibende
@@ -383,7 +383,7 @@ Mädchen bessere Chancen in Naturwissenschaften und Technik (MINT) zu ermöglich
 Die steirische Wirtschaft soll insbesondere in
 Zukunftsbranchen, wie der Umwelt- und Energietechnik, eine führende Rolle in Europa einnehmen.
 
-8. Allianz von Arbeitnehmer_innen und
+8. Allianz von Arbeitnehmer_innen und
 Arbeitgeber_innen
 Nur gemeinsam schaffen wir eine Veränderung, wenn wir mit Vertrauen und Respekt auf die
 Wünsche und Vorstellungen steirischer Unternehmer_innen ebenso wie auf die Bedürfnisse ihrer
@@ -438,7 +438,7 @@ Wachstum soll damit möglich werden.
 
 9
 
-Bildung
+Bildung
 Die Talente unserer
 Kinder sind unsere
 Zukunft
@@ -515,7 +515,7 @@ Pädagoginnen und Pädagogen nicht auf individuelle
 Bedürfnisse der Kinder eingehen. Es kann lediglich
 die Beaufsichtigung in unzufriedenstellendem Ausmaß angeboten werden.
 
-Da wollen wir hin
+Da wollen wir hin
 Es herrscht Konsens darüber, dass qualitätsvolle Kinderbetreuung die Grundlage für gerechte
 Bildungschancen ist. Es wurde erkannt, dass die
 flächendeckende Bereitstellung von Kindergärten,
@@ -598,7 +598,7 @@ bewertet.
 
 11
 
-Erhöhung des Betreuungsangebotes
+Erhöhung des Betreuungsangebotes
 Das Land verpflichtet sich das Betreuungsangebot vor allem auch in nicht urbanen Gegenden
 weiter auszubauen, um Familien ihre Lebensplanung zu erleichtern.
 
@@ -675,7 +675,7 @@ Das Lehrpersonal wird von unnötigen Verwaltungsaufgaben befreit, administrative
 werden vom Sekretariat erledigt und Pädagog_innen
 haben mehr Freiraum für ihre eigentlichen Aufgaben.
 
-Die Direktor_innen:
+Die Direktor_innen:
 Profis mit Gestaltungsspielraum
 
 munikations- und Feedback-Kultur zwischen allen
@@ -746,7 +746,7 @@ Bildungsmaßnahmen erleichtert.
 
 13
 
-Mitbestimmung,direkte
+Mitbestimmung,direkte
 Demokratie und Bürger_
 innenbeteiligung
 
@@ -809,10 +809,10 @@ der Ausschüsse per Live-Stream im Internet.
 haben sowohl das aktive als auch das passive Wahlrecht auf Landes- und Gemeindeebene. Bürger_innen aus Nicht-EU-Staaten haben das aktive Wahlrecht auf Landes- und Gemeindeebene, wenn sie seit
 mindestens fünf Jahren in der Steiermark leben.
 
-Mehr
+Mehr
 Freiraum.
 
-Transparenz und
+Transparenz und
 Verwaltung
 neu gestalten
 So sieht’s heute aus
@@ -862,12 +862,12 @@ des Landes sowie der Gemeinden und finanzielle
 Konsequenzen sind einsehbar, nachvollziehbar und
 kontrollierbar.
 
-Mehr Luft
+Mehr Luft
 Unternehmer.
 einfach
 machen
 
-So können wir das erreichen
+So können wir das erreichen
 • Bestellung eines unabhängigen Landesvolksanwaltes als Organ des Landtages als Anlaufstelle für
 alle Steirer_innen in Angelegenheiten der Landesund Gemeindeverwaltung .
 • Einführung eines aussagekräftigen Rechnungswesens.
@@ -946,10 +946,10 @@ Wähler_in und Jahr reduziert werden. Diese
 Grenze gilt sowohl für die Landes- als auch für die
 Gemeindeebene.
 
-einfach
+einfach
 machen
 
-Jugend
+Jugend
 So sieht’s heute aus
 Unsere Haltung
 Jugendpolitik ist immer Querschnittsmaterie, die
@@ -1021,7 +1021,7 @@ selbst vielfältige Möglichkeiten zur aktiven Mitgestaltung. Politische Bildung
 Eine gesetzliche Schuldenbremse dient dazu,
 dass keine neuen Schulden mehr zu Lasten der jungen Generation gemacht werden.
 
-Florierender Arbeits- So können wir das erreichen
+Florierender Arbeits- So können wir das erreichen
 markt für Junge
 Politische PartizipaJunge Menschen leiden nicht mehr unter
 tion erhöhen
@@ -1079,7 +1079,7 @@ schnell über Mitwir kungs- und Teilnahmemöglichkeiten informieren können.
 
 21
 
-Generationengerechtigkeit
+Generationengerechtigkeit
 herstellen
 Die Schulden des Landes sollen schrittweise abgebaut werden, um die junge Generation nicht noch
 weiter zu belasten. Im öffentlichen Dienst soll die
@@ -1128,7 +1128,7 @@ Das Potenzial von Mehrsprachigkeit muss
 verstärkt erkannt und durch muttersprachlichen
 Unterricht direkt an den steirischen Schulen und
 
-Kindergärten gefördert werden. Nach deutschem
+Kindergärten gefördert werden. Nach deutschem
 Vorbild soll ein ganzheitliches Integrationscoaching gefördert werden, das den Fokus auf Jugendliche mit Migrationshintergrund legt und vor
 allem beim Übergang von Schule zu Beruf behilflich sein soll.
 
@@ -1185,7 +1185,7 @@ von der auftraggebenden Person zu tragen.
 
 23
 
-Gesundheit
+Gesundheit
 und Pflege
 So sieht’s heute aus
 Top, aber so nicht mehr zu
@@ -1247,7 +1247,7 @@ um das vorhandene Wissenskapital wertschöpfend
 umzusetzen. Ein Verlust von Wissen und Investition. Auf der anderen Seite wird Ärzt_innen aus dem
 Ausland der Zugang künstlich erschwert.
 
-Der Ärztemangel wirkt sich auch massiv
+Der Ärztemangel wirkt sich auch massiv
 negativ auf die Mitarbeiter_innen der Pflege aus.
 Sie müssen deswegen immer mehr Aufgaben
 übernehmen. Im Modell „Pflege neu“ wurden
@@ -1310,7 +1310,7 @@ nicht besetzt werden können.
 
 25
 
-Pflege
+Pflege
 Aufgrund des undurchschaubaren Kostenträger-Wirrwarrs im Gesundheitssystem und
 deren schlechter Kooperation müssen viele
 beeinträchtigte und pflegebedürftige Menschen
@@ -1378,7 +1378,7 @@ werden: Ein Krankenkassensystem, Zusammenführung der Krankenkassenbeiträge und
 sowie Ausgleichszahlungen, gemeinsame Finanzierung des niedergelassenen und stationären
 Bereichs.
 
-Die Einführung der Leistungserbringung nach
+Die Einführung der Leistungserbringung nach
 „wahren Kosten“ und die Überarbeitung des auf
 Fallpauschalen basierenden LKF-Systems ermöglichen einen Vergleich und eine Bewertung der
 Behandlungskosten im niedergelassenen und stationären Bereich. Damit ist eine deutlich zielführendere Steuerung möglich.
@@ -1439,7 +1439,7 @@ Die Ausgleichtaxe als Anreizinstrument für Unternehmen, um beeinträchtigte Men
 
 27
 
-Zuwanderung
+Zuwanderung
 und Integration
 Miteinander statt
 Nebeneinander!
@@ -1501,7 +1501,7 @@ Der Schlüssel zu gelungener Integration ist
 Bildung. Hier ist vermehrt zu investieren, um
 unsere Gesellschaft zu stärken. Der soziale Hintergrund eines Kindes darf nicht für seine Bildungskarriere ausschlaggebend sein.
 
-Deutschförderung muss bereits im Kindergarten beginnen. Damit unsere Bildungseinrichtungen ihrem Auftrag nachkommen können, müssen
+Deutschförderung muss bereits im Kindergarten beginnen. Damit unsere Bildungseinrichtungen ihrem Auftrag nachkommen können, müssen
 sie auch mit den nötigen personellen Ressourcen
 ausgestattet sein. Standorte, an denen in Bezug
 auf Integration besondere Herausforderungen
@@ -1554,7 +1554,7 @@ Betreuung schafft Vertrauen!
 
 29
 
-Energie &
+Energie &
 Mobilität
 So sieht‘s heute aus
 Der Mensch verändert die Welt – er nutzt das
@@ -1621,7 +1621,7 @@ Kosten-Nutzen-Rechnungen. Objektive Planungsgrundlagen wie regelmäßig aktualis
 kontinuierliche Erhebung des Verkehrsverhaltens
 fehlen.
 
-In den Bereichen der Steirischen Lokalbahnen
+In den Bereichen der Steirischen Lokalbahnen
 ist das Land Steiermark unzureichend aufgestellt.
 Die Strukturen aus Steirischer Landesbahn und
 Steiermarkbahn entsprechen nicht mehr den
@@ -1702,12 +1702,12 @@ gewonnen.
 
 31
 
-Freiraum
+Freiraum
 Macherinnen.
 einfach
 machen
 
-In einigen Bereichen sind unsere Versorgungsunternehmen selbst Opfer fehlender politischer
+In einigen Bereichen sind unsere Versorgungsunternehmen selbst Opfer fehlender politischer
 Rahmenbedingungen auf europäischer Ebene. Die
 zunehmenden Verwerfungen am Strommarkt sind
 Auswirkungen internationaler Entwicklungen:
@@ -1787,7 +1787,7 @@ innovative, strategische und langfristige Planungen durchführen. Ein profession
 
 33
 
-So können wir das erreichen
+So können wir das erreichen
 
 Transparenz im Verkehr hilft uns auf
 neuen Wegen in der
@@ -1857,7 +1857,7 @@ Maßnahmen in diesem Bereich zu jenen gehören,
 die die Volkswirtschaft am geringsten belasten, ist
 der Fokus darauf zu setzen.
 
-Der Fernwärmeausbau in durch Feinstaub
+Der Fernwärmeausbau in durch Feinstaub
 belasteten Zonen muss so schnell, wie es die Verkehrslage zulässt, umgesetzt werden. Feinstaubzonen müssen sukzessive frei von Feststoff verbrennenden Heizungen durchgesetzt werden.
 Dies wird mittelfristig durch einen geförderten
 und sozial verträglichen Umstieg von Festbrennstoff-Heizungen auf Fernwärme erreicht. Wohnanlagen, die von Seiten der Öffentlichkeit betrieben
@@ -1910,4 +1910,3 @@ Projekte zu gewinnen. Eine überregionale Koordination auf Landesebene ist dafü
 
 35
 
-
