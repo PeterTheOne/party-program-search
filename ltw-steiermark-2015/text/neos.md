@@ -1,79 +1,13 @@
-Impressum: NEOS – Das Neue Österreich und Liberales Forum, NEOS Landesgruppe Steiermark: 8020 Graz, Annenstraße 34a
-steiermark.neos.eu | facebook.com/NEOS.stmk | für den Inhalt verantwortlich : Lukas Lerchner & Konsorten |
-Programmentwicklung durch Themengruppen, in der steirischen Mitgliederversammlung am 11. April 2015 beschlossen.
-Dank an die zahlreichen Steirer_innen, die an diesem Programm mitgearbeitet haben!
+Da wollen wir hin – Ziele, Visionen und Hoffnungen
 
-NEOS
-für die Erneuerung
-der Steiermark
-So sieht’s heute aus – Status quo
-und Herausforderungen
-Die Steiermark ist ein Land der Macher_innen
-und Träumer_innen, ein Ort für Gründer_innen,
-Entdecker_innen und Einfallsreiche. Ein Land mit
-Freiraum für Menschen mit Visionen, mit Wünschen und Ideen, den großen und kleinen.
+Der Kindergarten ist keine Verwahrungsstätte mehr, sondern die Keimzelle, in der sich kindliche Neugier entfalten kann – ganzjährig, individuell, flexibel. In der Schule werden Talente, die in den Kindern erblühen, nicht beschnitten, sondern gefördert. Eltern können die beste Schule für ihre Kinder wählen, die Schulen können sich die besten Lehrer_innen aussuchen.
 
-2
+Die Universitäten und Fachhochschulen sind unabhängig, gut ausgestattet und verstehen sich als Nährboden für begeisterte Wissenschaft, in der sowohl Grundlagenforschung als auch angewandte Technologie Platz finden. Bildung ist die Basis für Mündigkeit und mündige Bürger_innen gestalten ihr Leben eigenverantwortlich. Eigenverantwortung heißt auch, dass neue Wege beschritten werden. Die gesetzlichen Regeln und eine moderne Gewerbeordnung ermöglichen unternehmerische Innovation und behindern diese nicht unnötig. Bei der Gründung eines Unternehmens verbringt man mehr Zeit in Garagen, Shared Offices und Werkstätten als auf Ämtern. Lohnerhöhungen werden nicht von der überbordenden Steuerlast und den Lohnnebenkosten aufgefressen. Jedes Gesetz wird daraufhin überprüft, welche Auswirkung es auf die kommenden Generationen hat. Es wird nicht mehr über den Kopf des einzelnen hinweg entschieden - gläserne Verwaltung, nachvollziehbare Politik und ein hohes Maß an Bürgerbeteiligung ermöglichen ein Verhältnis auf Augenhöhe. Vielfalt wird als Ressource wahrgenommen.
 
-Da wollen wir hin – Ziele, Visionen
-und Hoffnungen
-Der Kindergarten ist keine Verwahrungsstätte
-mehr, sondern die Keimzelle, in der sich kindliche
-Neugier entfalten kann – ganzjährig, individuell,
-flexibel. In der Schule werden Talente, die in den
-Kindern erblühen, nicht beschnitten, sondern
-gefördert. Eltern können die beste Schule für ihre
-Kinder wählen, die Schulen können sich die besten Lehrer_innen aussuchen.
-Die Universitäten und Fachhochschulen sind
-unabhängig, gut ausgestattet und verstehen sich
-als Nährboden für begeisterte Wissenschaft, in der
+Menschen können sich frei entfalten, persönliche Freiheit wird ebenso geschätzt, wie die Projekte, die aus ihr entwachsen.
 
-sowohl Grundlagenforschung als auch angewandte
-Technologie Platz finden. Bildung ist die Basis für
-Mündigkeit und mündige Bürger_innen gestalten
-ihr Leben eigenverantwortlich. Eigenverantwortung heißt auch, dass neue Wege beschritten werden. Die gesetzlichen Regeln und eine moderne
-Gewerbeordnung ermöglichen unternehmerische
-Innovation und behindern diese nicht unnötig. Bei
-der Gründung eines Unternehmens verbringt man
-mehr Zeit in Garagen, Shared Offices und Werkstätten als auf Ämtern. Lohnerhöhungen werden
-nicht von der überbordenden Steuerlast und den
-Lohnnebenkosten aufgefressen. Jedes Gesetz wird
-daraufhin überprüft, welche Auswirkung es auf
-die kommenden Generationen hat. Es wird nicht
-mehr über den Kopf des einzelnen hinweg entschieden - gläserne Verwaltung, nachvollziehbare
-Politik und ein hohes Maß an Bürgerbeteiligung
-ermöglichen ein Verhältnis auf Augenhöhe. Vielfalt wird als Ressource wahrgenommen.
-Menschen können sich frei entfalten, persönliche Freiheit wird ebenso geschätzt, wie die
-Projekte, die aus ihr entwachsen.
 
-So können wir das erreichen – Maßnahmen und Möglichkeiten
-
-Steiermark wird
-Gründungshochburg
-Unternehmen entlasten,
-Arbeitsplätze schaffen
-Kindergärten für
-Kinder und Eltern
-Schulautonomie statt
-Schuleinheitsbrei
-Durchblick und
-Kontrolle
-Mitgestalten und
-Mitbestimmen
-Schnelles Internet
-in jedem Ort der Steiermark
-Enkelfitter
-Landeshaushalt
-Offene
-Willkommenskultur
-Halber Punkt – voller Ernst:
-die Kraft des Neuen
-
-3
-
-Unternehmerische
-Steiermark
-4
+Unternehmerische Steiermark
 
 So sieht’s heute aus
 Der florierende Wirtschaftsstandort Steiermark zeichnet sich unter anderem durch die Ansiedelung hochinnovativer Unternehmen mit einer
