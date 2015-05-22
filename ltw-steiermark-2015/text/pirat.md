@@ -46,7 +46,9 @@ Verwaltung
 Die Piratenpartei setzt sich für einen Bürokratieabbau in allen Bereichen ihres politischen Wirkens ein. Dies beinhaltet eine Gemeinde- und Gebietsreform, die durch sinnvolle Zusammenlegung, Optimierung und Straffung der Verwaltung Kosten spart. Die Piratenpartei fordert dazu die österreichweite Vereinheitlichung des Jugendschutzgesetzes.
 Die Piratenpartei spricht sich für objektive Postenbesetzung (öffentliche Ausschreibung) durch Fachleute in der steirischen Verwaltung aus und gegen eine Besetzung durch Parteigünstlinge.
 Die Piratenpartei tritt für Gehaltsverhandlungen 2013 und 2014 auch für die Beschäftigten des öffentlichen Dienstes ein.
-[Bearbeiten] Offenlegung von Algorithmen in öffentlicher Verwaltungssoftware
+
+
+Offenlegung von Algorithmen in öffentlicher Verwaltungssoftware
 Wir fordern die Offenlegung aller Algorithmen als ausführbaren Quelltext, die in Verwaltungssoftware der öffentlichen Institutionen Entscheidungen Treffen.
 
 
